@@ -1,0 +1,137 @@
+[         0] Initializing Mono
+[       172] Initializing Mono completed
+[       188] Hello!
+[       328] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       328]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       344]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00042] in <b3642c6ba1504116b31d83a71003b504>:0 
+[       469] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       469] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[       172] Initializing Mono completed
+[       204] Hello!
+[       375] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       375]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       375]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00042] in <b3642c6ba1504116b31d83a71003b504>:0 
+[       500] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       500] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        63] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[        78]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[        78]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00042] in <b3642c6ba1504116b31d83a71003b504>:0 
+[       156] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       156] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        63] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[        63]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[        78]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00042] in <b3642c6ba1504116b31d83a71003b504>:0 
+[        78] Found new resource fivem in E:/FXServer\cfx-server-data-master/resources//fivem
+[        94] Found new resource fivem-awesome1501 in E:/FXServer\cfx-server-data-master/resources//fivem-awesome1501
+[        94] Found new resource fivem-map-hipster in E:/FXServer\cfx-server-data-master/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in E:/FXServer\cfx-server-data-master/resources//fivem-map-skater
+[       109] Found new resource runcode in E:/FXServer\cfx-server-data-master/resources//runcode
+[       125] Found new resource race in E:/FXServer\cfx-server-data-master/resources//[gamemodes]/race
+[       125] Found new resource race-test in E:/FXServer\cfx-server-data-master/resources//[gamemodes]/race-test
+[       125] Found new resource channelfeed in E:/FXServer\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       141] Found new resource irc in E:/FXServer\cfx-server-data-master/resources//[gameplay]/irc
+[       141] Found new resource obituary in E:/FXServer\cfx-server-data-master/resources//[gameplay]/obituary
+[       156] Found new resource obituary-deaths in E:/FXServer\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       156] Found new resource playernames in E:/FXServer\cfx-server-data-master/resources//[gameplay]/playernames
+[       172] Found new resource mapmanager in E:/FXServer\cfx-server-data-master/resources//[managers]/mapmanager
+[       172] Found new resource baseevents in E:/FXServer\cfx-server-data-master/resources//[system]/baseevents
+[       188] Found new resource chat in E:/FXServer\cfx-server-data-master/resources//[system]/chat
+[       188] Found new resource hardcap in E:/FXServer\cfx-server-data-master/resources//[system]/hardcap
+[       188] Found new resource rconlog in E:/FXServer\cfx-server-data-master/resources//[system]/rconlog
+[       203] Found new resource scoreboard in E:/FXServer\cfx-server-data-master/resources//[system]/scoreboard
+[       203] Found new resource sessionmanager in E:/FXServer\cfx-server-data-master/resources//[system]/sessionmanager
+[       219] Found new resource spawnmanager in E:/FXServer\cfx-server-data-master/resources//[system]/spawnmanager
+[       219] Found new resource betaguns in E:/FXServer\cfx-server-data-master/resources//[test]/betaguns
+[       219] Found new resource gameInit in E:/FXServer\cfx-server-data-master/resources//[test]/gameInit
+[       234] Found new resource keks in E:/FXServer\cfx-server-data-master/resources//[test]/keks
+[       266] Started resource sessionmanager
+[       375] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       391] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[         0] Initializing Mono completed
+[        15] Hello!
+[        62] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[        62]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[        62]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00042] in <b3642c6ba1504116b31d83a71003b504>:0 
+[        78] Found new resource fivem in E:/FXServer\cfx-server-data-master/resources//fivem
+[        78] Found new resource fivem-awesome1501 in E:/FXServer\cfx-server-data-master/resources//fivem-awesome1501
+[        78] Found new resource fivem-map-hipster in E:/FXServer\cfx-server-data-master/resources//fivem-map-hipster
+[        93] Found new resource fivem-map-skater in E:/FXServer\cfx-server-data-master/resources//fivem-map-skater
+[        93] Found new resource runcode in E:/FXServer\cfx-server-data-master/resources//runcode
+[        93] Found new resource race in E:/FXServer\cfx-server-data-master/resources//[gamemodes]/race
+[       109] Found new resource race-test in E:/FXServer\cfx-server-data-master/resources//[gamemodes]/race-test
+[       109] Found new resource channelfeed in E:/FXServer\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       109] Found new resource irc in E:/FXServer\cfx-server-data-master/resources//[gameplay]/irc
+[       125] Found new resource obituary in E:/FXServer\cfx-server-data-master/resources//[gameplay]/obituary
+[       125] Found new resource obituary-deaths in E:/FXServer\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       125] Found new resource playernames in E:/FXServer\cfx-server-data-master/resources//[gameplay]/playernames
+[       140] Found new resource mapmanager in E:/FXServer\cfx-server-data-master/resources//[managers]/mapmanager
+[       140] Found new resource baseevents in E:/FXServer\cfx-server-data-master/resources//[system]/baseevents
+[       140] Found new resource chat in E:/FXServer\cfx-server-data-master/resources//[system]/chat
+[       156] Found new resource hardcap in E:/FXServer\cfx-server-data-master/resources//[system]/hardcap
+[       156] Found new resource rconlog in E:/FXServer\cfx-server-data-master/resources//[system]/rconlog
+[       171] Found new resource scoreboard in E:/FXServer\cfx-server-data-master/resources//[system]/scoreboard
+[       171] Found new resource sessionmanager in E:/FXServer\cfx-server-data-master/resources//[system]/sessionmanager
+[       171] Found new resource spawnmanager in E:/FXServer\cfx-server-data-master/resources//[system]/spawnmanager
+[       187] Found new resource betaguns in E:/FXServer\cfx-server-data-master/resources//[test]/betaguns
+[       187] Found new resource gameInit in E:/FXServer\cfx-server-data-master/resources//[test]/gameInit
+[       187] Found new resource keks in E:/FXServer\cfx-server-data-master/resources//[test]/keks
+[       218] Started resource sessionmanager
+[       375] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       375] Sending heartbeat to live-internal.fivem.net:30110
+[    180453] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[         0] Initializing Mono completed
+[        15] Hello!
+[        62] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[        62]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[        62]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00042] in <b3642c6ba1504116b31d83a71003b504>:0 
+[        78] Found new resource fivem in E:/FXServer\server-data/resources//fivem
+[        78] Found new resource fivem-awesome1501 in E:/FXServer\server-data/resources//fivem-awesome1501
+[        78] Found new resource fivem-map-hipster in E:/FXServer\server-data/resources//fivem-map-hipster
+[        93] Found new resource fivem-map-skater in E:/FXServer\server-data/resources//fivem-map-skater
+[        93] Found new resource runcode in E:/FXServer\server-data/resources//runcode
+[        93] Found new resource race in E:/FXServer\server-data/resources//[gamemodes]/race
+[       109] Found new resource race-test in E:/FXServer\server-data/resources//[gamemodes]/race-test
+[       109] Found new resource channelfeed in E:/FXServer\server-data/resources//[gameplay]/channelfeed
+[       109] Found new resource irc in E:/FXServer\server-data/resources//[gameplay]/irc
+[       125] Found new resource obituary in E:/FXServer\server-data/resources//[gameplay]/obituary
+[       125] Found new resource obituary-deaths in E:/FXServer\server-data/resources//[gameplay]/obituary-deaths
+[       125] Found new resource playernames in E:/FXServer\server-data/resources//[gameplay]/playernames
+[       140] Found new resource mapmanager in E:/FXServer\server-data/resources//[managers]/mapmanager
+[       140] Found new resource baseevents in E:/FXServer\server-data/resources//[system]/baseevents
+[       140] Found new resource chat in E:/FXServer\server-data/resources//[system]/chat
+[       156] Found new resource hardcap in E:/FXServer\server-data/resources//[system]/hardcap
+[       156] Found new resource rconlog in E:/FXServer\server-data/resources//[system]/rconlog
+[       156] Found new resource scoreboard in E:/FXServer\server-data/resources//[system]/scoreboard
+[       172] Found new resource sessionmanager in E:/FXServer\server-data/resources//[system]/sessionmanager
+[       172] Found new resource spawnmanager in E:/FXServer\server-data/resources//[system]/spawnmanager
+[       187] Found new resource betaguns in E:/FXServer\server-data/resources//[test]/betaguns
+[       187] Found new resource gameInit in E:/FXServer\server-data/resources//[test]/gameInit
+[       187] Found new resource keks in E:/FXServer\server-data/resources//[test]/keks
+[       203] Started resource sessionmanager
+[       234] Started resource mapmanager
+[       328] Started resource chat
+[       343] Started resource spawnmanager
+[       359] Started resource fivem
+[       359] Started gametype Freeroam
+[       375] Started resource hardcap
+[       375] Started resource rconlog
+[       406] Started resource scoreboard
+[       437] Started resource playernames
+[       515] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       531] Sending heartbeat to live-internal.fivem.net:30110
+[       531] Started resource fivem-map-hipster
+[       547] Started map fivem-map-hipster
+[     48297] Connecting: Mr White
+[     48953] Sending heartbeat to live-internal.fivem.net:30110
+[    228984] Sending heartbeat to live-internal.fivem.net:30110
+[    316812] Sending heartbeat to live-internal.fivem.net:30110
+[    316828] hitch warning: frame time of 608 milliseconds
